@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rtaylor02
-- 👀 I’m interested in ...
+- 👀 I’m interested in Java Full Stack development
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on WPF, ASP.NET  projects
+- 💞️ I’m looking to collaborate on Java Full Stack projects
 - 📫 How to reach me ...
 
 <!---
