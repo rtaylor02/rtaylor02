@@ -13,3 +13,13 @@ I’m a **Java Developer & Software/Solution Architect** specialising in **perfo
 - Building my public portfolio on [javarchitect.com](https://javarchitect.com)  
 
 📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/rodney-taylor-uk) | [GitHub Projects](https://github.com/rtaylor02)
+
+&#x1F4BC; Projects
+### Employee CRUD Management System
+A secure and user-friendly web application built with Spring Boot 3, Spring MVC, Spring Data JPA, and MySQL to manage employee records (Create, Read, Update, Delete).
+Security & Config Management – Integrated with AWS Parameter Store to securely store and retrieve application configurations and credentials.
+Dynamic UI – Developed with Thymeleaf and Bootstrap for a responsive, intuitive user interface.
+Robust Data Layer – Implemented JPA repositories for efficient database operations and easy maintainability.
+Cloud Ready – Designed to run seamlessly in AWS environments with minimal configuration changes.
+
+
